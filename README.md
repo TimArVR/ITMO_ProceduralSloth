@@ -32,4 +32,7 @@ _Источник модели ленивца:_
 бесплатная (для некоммерческого использования) модель 3D ленивца [отсюда](https://www.cadnav.com/3d-models/model-54106.html)  
 
 _Дополнительно:_  
-Полный текст работы на [GitHub](https://github.com/TimArVR/ITMO_ProceduralSloth/blob/main/%D0%92%D0%9A%D0%A0_%D0%A1%D1%83%D0%BB%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%A2%D0%98_%D0%A8%D0%A0%D0%92.pdf) 
+Полный текст работы на [GitHub](https://github.com/TimArVR/ITMO_ProceduralSloth/blob/main/%D0%92%D0%9A%D0%A0_%D0%A1%D1%83%D0%BB%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%A2%D0%98_%D0%A8%D0%A0%D0%92.pdf)   
+
+_Разработчик:_  
+Султанов Т.И. группа J4221 
